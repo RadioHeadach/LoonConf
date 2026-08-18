@@ -1,0 +1,7 @@
+.DS_Store
+
+# Keep subscription URLs and Loon MITM key material out of Git.
+Config/*.private.conf
+Config/Loon.conf
+*.p12
+*.pfx
